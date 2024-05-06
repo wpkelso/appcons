@@ -7,7 +7,7 @@ project (
 i18n = import('i18n')
 fs = import('fs')
 
-icon_dir = join_paths(get_option('datadir'), 'icons', 'elementary')
+icon_dir = join_paths(get_option('datadir'), 'icons', 'appcons')
 
 scale_factors = get_option('scale_factors')
 
@@ -58,7 +58,7 @@ else
     message(msg + '\n')
 endif
 
-# Here beggins the real work
+# Here begins the real work
 foreach directory : directories
     install_subdir(
         directory[0],
@@ -147,9 +147,9 @@ configure_file(
 )
 
 # Create the symlinks
-foreach directory_entry : directories
+foreach directoy_entry : directories
     foreach scale_factor : scale_factors
-        # We only create a symlink to the @1 directory, it's all the point of using SVG assets…
+        # We only create a symlink to the @1 directory, it's all the point of using SVG assets...
         if (scale_factor.to_int() > 1)
             directory = directory_entry[0]
             install_symlink(
@@ -162,12 +162,4 @@ foreach directory_entry : directories
 endforeach
 
 subdir('apps')
-subdir('cursors')
-subdir('mimes')
 
-if (get_option ('volume_icons'))
-  subdir('volumeicon')
-endif
-
-subdir('data')
-subdir('po')
