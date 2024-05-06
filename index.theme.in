@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=appcons
+Comment=Designed for elementary OS, meshing popular apps with the Pantheon desktop
+Inherits=elementary
+
+Example=directory-x-normal
+
+Directories=@DIRECTORY_LIST@
+@DIRECTORY_DETAILS@
