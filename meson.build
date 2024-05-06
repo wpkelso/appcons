@@ -1,7 +1,6 @@
 project (
-    'io.elementary.icons',
-    version: '7.3.1',
-    license : 'GPL3+',
+    'com.wpkelso.appcons',
+    version: '0.0.1',
     meson_version: '>=0.61',
 )
 
@@ -16,15 +15,7 @@ scale_factors = get_option('scale_factors')
 directories = [
     # The first argument is the name of the folder,
     # the second is the associated Context
-    ['actions', 'Actions'],
     ['apps', 'Applications'],
-    ['categories', 'Categories'],
-    ['devices', 'Devices'],
-    ['emblems', 'Emblems'],
-    ['emotes', 'Emotes'],
-    ['mimes', 'MimeTypes'],
-    ['places', 'Places'],
-    ['status', 'Status']
 ]
 
 # Add a size here to the list if needed.
