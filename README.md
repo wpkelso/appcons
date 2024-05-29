@@ -2,7 +2,7 @@
 
 ![Obsidian App Icon](./apps/128/obsidian.svg)
 ![Alacritty App Icon](./apps/128/alacritty.svg)
-![Discord App Icon](.apps/128/discord.svg)
+![Discord App Icon](./apps/128/discord.svg)
 
 A collection of vector icons for popular applications that strives to better mesh with the visual language of elementary OS.
 This theme is designed to be installed on top of and extend the regular [icons theme](https://github.com/elementary/icons) for elementary OS.
