@@ -2,11 +2,8 @@
 
 ![Obsidian App Icon 128](./apps/128/obsidian.svg)
 ![Alacritty App Icon 128](./apps/128/com.alacritty.Alacritty.svg)
-
 ![Obsidian App Icon 64](./apps/64/obsidian.svg)
 ![Alacritty App Icon 64](./apps/64/com.alacritty.Alacritty.svg)
-
-
 ![Obsidian App Icon 48](./apps/48/obsidian.svg)
 ![Alacritty App Icon 48](./apps/48/com.alacritty.Alacritty.svg)
 
