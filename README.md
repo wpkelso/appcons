@@ -7,7 +7,7 @@
 ![Obsidian App Icon 48](./apps/48/obsidian.svg)
 ![Alacritty App Icon 48](./apps/48/com.alacritty.Alacritty.svg)
 
-A collection of vector icons for popular applications that strives to better mesh with the visual language of elementary OS.
+A small but growing collection of vector icons for popular applications that strives to better mesh with the visual language of elementary OS.
 This theme is designed to be installed on top of and extend the regular [icons theme](https://github.com/elementary/icons) for elementary OS.
 
 
