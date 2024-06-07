@@ -11,6 +11,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs4"><linearGradient
+       id="linearGradient3"><stop
+         style="stop-color:#ed5353;stop-opacity:1;"
+         offset="0"
+         id="stop1" /><stop
+         style="stop-color:#ffa154;stop-opacity:1;"
+         offset="0.5"
+         id="stop2" /><stop
+         style="stop-color:#ffe16b;stop-opacity:1;"
+         offset="1"
+         id="stop3" /></linearGradient><linearGradient
        id="linearGradient909"><stop
          id="stop901"
          style="stop-color:#3a465a;stop-opacity:1;"
@@ -89,7 +99,7 @@
        x2="31.781376"
        y2="59.148476"
        gradientUnits="userSpaceOnUse" /><linearGradient
-       xlink:href="#linearGradient1"
+       xlink:href="#linearGradient3"
        id="linearGradient118"
        gradientUnits="userSpaceOnUse"
        x1="25"

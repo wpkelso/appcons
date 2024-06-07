@@ -11,6 +11,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs4"><linearGradient
+       id="linearGradient3"><stop
+         style="stop-color:#ed5353;stop-opacity:1;"
+         offset="0"
+         id="stop1" /><stop
+         style="stop-color:#ffa154;stop-opacity:1;"
+         offset="0.5"
+         id="stop2" /><stop
+         style="stop-color:#ffe16b;stop-opacity:1;"
+         offset="1"
+         id="stop3" /></linearGradient><linearGradient
        id="linearGradient1"><stop
          style="stop-color:#c6262e;stop-opacity:1;"
          offset="0"
@@ -140,7 +150,7 @@
        height="1.2153911"><feGaussianBlur
          stdDeviation="0.58335081"
          id="feGaussianBlur120" /></filter><linearGradient
-       xlink:href="#linearGradient1"
+       xlink:href="#linearGradient3"
        id="linearGradient134"
        gradientUnits="userSpaceOnUse"
        x1="25"
