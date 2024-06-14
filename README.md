@@ -2,6 +2,7 @@
 
 ![Obsidian 128](./apps/128/obsidian.svg)
 ![Alacritty 128](./apps/128/com.alacritty.Alacritty.svg)
+![Inkscape 128](./apps/128/org.inkscape.Inkscape.svg)
 ![Obsidian 64](./apps/64/obsidian.svg)
 ![Alacritty 64](./apps/64/com.alacritty.Alacritty.svg)
 ![Obsidian 48](./apps/48/obsidian.svg)
