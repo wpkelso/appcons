@@ -1,12 +1,8 @@
 # Appcons Theme
 
-![Obsidian 128](./apps/128/obsidian.svg)
-![Alacritty 128](./apps/128/com.alacritty.Alacritty.svg)
-![Obsidian 64](./apps/64/obsidian.svg)
-![Alacritty 64](./apps/64/com.alacritty.Alacritty.svg)
-![Obsidian 48](./apps/48/obsidian.svg)
-![Alacritty 48](./apps/48/com.alacritty.Alacritty.svg)
-![Obsidian 32](./apps/32/obsidian.svg)
+![Obsidian](./apps/64/obsidian.svg)
+![Alacritty](./apps/64/com.alacritty.Alacritty.svg)
+![Inkscape](./apps/64/org.inkscape.Inkscape.svg)
 
 A small but growing collection of vector icons for popular applications that strives to better mesh with the visual language of elementary OS.
 This theme is designed to be installed on top of and extend the regular [icons theme](https://github.com/elementary/icons) for elementary OS.
