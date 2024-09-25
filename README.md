@@ -3,9 +3,13 @@
 ![Obsidian](./apps/64/obsidian.svg)
 ![Alacritty](./apps/64/com.alacritty.Alacritty.svg)
 ![Inkscape](./apps/64/org.inkscape.Inkscape.svg)
-![Zen Browser](./apps/64/io.github.zen_browser.zen.svg)
+![Zen](./apps/64/io.github.zen_browser.zen.svg)
+![Discord](./apps/64/discord.svg)
+![Slack](./apps/64/com.slack.Slack.svg)
+![Bitwarden](./apps/64/com.bitwarden.desktop.svg)
 
-A small but growing collection of vector icons for third-party applications that strives to better mesh with the visual language of elementary OS.
+A small but growing collection of opinionated vector icons for popular applications that strives to better mesh with the visual language of elementary OS.
+
 This theme is designed to be installed on top of and extend the regular [icons theme](https://github.com/elementary/icons) for elementary OS.
 
 
