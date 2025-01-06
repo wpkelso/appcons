@@ -5,7 +5,7 @@ icon_links = [
     # The first argument is the original icon name,
     # the second is the link.
     # `alt` files do not get symlinked,
-    # they should be changed in the relevant `desktop`` file
+    # they should be changed in the relevant `desktop` file
 
     ['alacritty', 'com.alacritty.Alacritty'],
     ['alacritty', 'Alacritty'],
