@@ -18,16 +18,6 @@
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop43" /></linearGradient><linearGradient
-       id="linearGradient12"><stop
-         style="stop-color:#ed5353;stop-opacity:1;"
-         offset="0"
-         id="stop10" /><stop
-         style="stop-color:#ffa154;stop-opacity:1;"
-         offset="0.5"
-         id="stop11" /><stop
-         style="stop-color:#ffe16b;stop-opacity:1;"
-         offset="1"
-         id="stop12" /></linearGradient><linearGradient
        id="linearGradient880"><stop
          style="stop-color:#3a465a;stop-opacity:1;"
          offset="0"
@@ -121,7 +111,7 @@
        x2="62.871635"
        y2="118.42699"
        gradientUnits="userSpaceOnUse" /><linearGradient
-       xlink:href="#linearGradient12"
+       xlink:href="#linearGradient1"
        id="linearGradient2"
        x1="64"
        y1="43"
