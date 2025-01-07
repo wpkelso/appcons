@@ -7,8 +7,7 @@ icon_links = [
     # `alt` files do not get symlinked,
     # they should be changed in the relevant `desktop` file
 
-    ['alacritty', 'com.alacritty.Alacritty'],
-    ['alacritty', 'Alacritty'],
+    ['Alacritty', 'com.alacritty.Alacritty'],
 
     ['zen-browser', 'io.github.zen_browser.zen'],
 
