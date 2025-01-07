@@ -5,7 +5,7 @@
 
 
 ![Obsidian](./apps/64/obsidian.svg)
-![Alacritty](./apps/64/alacritty.svg)
+![Alacritty](./apps/64/Alacritty.svg)
 ![Inkscape](./apps/64/inkscape.svg)
 ![Zen](./apps/64/zen-browser.svg)
 ![Discord](./apps/64/discord.svg)
