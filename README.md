@@ -5,13 +5,13 @@
 
 
 ![Obsidian](./apps/64/obsidian.svg)
-![Alacritty](./apps/64/com.alacritty.Alacritty.svg)
-![Inkscape](./apps/64/org.inkscape.Inkscape.svg)
-![Zen](./apps/64/io.github.zen_browser.zen.svg)
+![Alacritty](./apps/64/Alacritty.svg)
+![Inkscape](./apps/64/inkscape.svg)
+![Zen](./apps/64/zen-browser.svg)
 ![Discord](./apps/64/discord.svg)
-![Slack](./apps/64/com.slack.Slack.svg)
-![Bitwarden](./apps/64/com.bitwarden.desktop.svg)
-![Zotero](./apps/64/org.zotero.Zotero.svg)
+![Slack](./apps/64/slack.svg)
+![Bitwarden](./apps/64/bitwarden.svg)
+![Zotero](./apps/64/zotero.svg)
 
 A small but growing collection of vector icons for popular applications that strives to better mesh with the visual language of elementary OS.
 
