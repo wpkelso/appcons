@@ -10,15 +10,9 @@ icon_links = [
     ['alacritty', 'com.alacritty.Alacritty'],
     ['alacritty', 'Alacritty'],
 
-    ['zen-browser', 'app.zen_browser.zen'],
-
     ['slack', 'com.slack.Slack'],
 
-    ['bitwarden', 'com.bitwarden.desktop'],
-
     ['obsidian', 'md.obsidian.Obsidian'],
-
-    ['inkscape', 'org.inkscape.Inkscape'],
 
     ['zotero', 'org.zotero.Zotero']
 ]
