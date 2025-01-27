@@ -7,7 +7,7 @@ project (
 i18n = import('i18n')
 fs = import('fs')
 
-icon_dir = join_paths(get_option('datadir'), 'icons', 'appcons')
+icon_dir = join_paths(get_option('datadir'), 'icons', 'expandtheon')
 
 scale_factors = get_option('scale_factors')
 
