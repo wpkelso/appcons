@@ -7,9 +7,10 @@ icon_links = [
     # `alt` files do not get symlinked,
     # they should be changed in the relevant `desktop` file
 
-    ['Alacritty', 'com.alacritty.Alacritty'],
+    ['alacritty', 'com.alacritty.Alacritty'],
+    ['alacritty', 'Alacritty'],
 
-    ['zen-browser', 'io.github.zen_browser.zen'],
+    ['zen-browser', 'app.zen_browser.zen'],
 
     ['slack', 'com.slack.Slack'],
 
@@ -25,7 +26,7 @@ icon_links = [
 foreach link : icon_links
     foreach size : icon_sizes
         # only symlink to files that actually exist
-        if fs.is_file(link[0] + '.svg')
+        if fs.is_file(size / link[0] + '.svg')
             install_symlink(
                 link[1] + '.svg',
                 install_dir: icon_dir / 'apps' / size,
