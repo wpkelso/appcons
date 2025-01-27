@@ -9,7 +9,7 @@
 ![Zotero](./apps/64/zotero.svg)
 
 A vector icon theme that brings third-party support to elementary OS and it's
-desktop environent, Pantheon.
+desktop environment, Pantheon.
 
 This theme is designed to be installed on top of and extend the regular [icons theme](https://github.com/elementary/icons) for elementary OS.
 
@@ -18,7 +18,6 @@ This theme is designed to be installed on top of and extend the regular [icons t
 You'll need the following dependencies:
 
 * meson
-* rsvg
 
 Run `meson` to configure the build environment and then `ninja` to build
 
